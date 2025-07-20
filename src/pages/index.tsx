@@ -145,7 +145,7 @@ const IndexPage: React.FC<PageProps> = () => {
         <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
       </h1>
       <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.tsx</code> to see this page
+        Edit ali raza zaidi khan hi do you doing<code style={codeStyles}>src/pages/index.tsx</code> to see this page
         update in real-time. 😎
       </p>
       <ul style={doclistStyles}>
